@@ -1,0 +1,22 @@
+extends ../../layouts/master
+block content
+    h2 Products
+    a.btn.btn-primary(href="/admin/products/add") Add product
+
+    .container.pt-5
+        table.table
+            thead
+                tr
+                    th(scope='col') Image Product
+                    th(scope='col') Name Product
+                    th(scope='col') Price Product
+                    th
+            tbody
+                each product in products
+                    tr
+                        td 
+                            img(src=`http://localhost:3001/images/${product.imageProduct}`, alt="", width="100")
+                        td= product.nameProduct
+                        td= product.price.toLocaleString() +' vnd'
+                        td
+                            a.btn.btn-danger(href=`/admin/products/${product._id}`) Delete

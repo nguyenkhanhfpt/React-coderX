@@ -1,0 +1,16 @@
+extends ../../layouts/master
+block content
+    h2 Add products
+    
+    .container
+        form(action="", method="POST", enctype="multipart/form-data")
+            .form-group
+                label(for='nameProduct') Name product
+                input#nameProduct.form-control(type='text', name="nameProduct")
+            .form-group
+                label(for='price') Price
+                input#price.form-control(type='text', name="price")
+            .form-group
+                label(for='imgProduct') Image Product
+                input#imgProduct.form-control-file(type='file', name="imageProduct")
+            button.btn.btn-primary(type='submit') Add 

@@ -1,0 +1,56 @@
+{ 
+    "_id" : ObjectId("5ed5edc600d3b5488c9e0cca"), 
+    "nameProduct" : "Đắc Nhân Tâm", 
+    "price" : NumberInt(59500), 
+    "imageProduct" : "cc713d2bcecd12ba82d5596ddbcac2d7.jpg", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ed5ee2100d3b5488c9e0ccb"), 
+    "nameProduct" : "Đừng lựa chọn an nhà khi còn trẻ", 
+    "price" : NumberInt(50000), 
+    "imageProduct" : "0e56b45bddc01b57277484865818ab9b.jpg", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ed5ee4200d3b5488c9e0ccc"), 
+    "nameProduct" : "Bạn đáng giá bao nhiêu", 
+    "price" : NumberInt(64500), 
+    "imageProduct" : "bfebf4adcb31c8eb5c39fd3779cc4b68.jpg", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ed7b83d4e4ca62d00000033"), 
+    "nameProduct" : "Đừng chạy theo đám đông", 
+    "price" : NumberInt(125000), 
+    "imageProduct" : "f260011660001af960c42d7d2f1c5dc1.jpg", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ed7b8684e4ca62d00000034"), 
+    "nameProduct" : "Khởi nghiệp bán lẽ", 
+    "price" : NumberInt(99000), 
+    "imageProduct" : "060a6fa7491fabb4ce7e395fdc008757.jpg", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ed7b89a4e4ca62d00000035"), 
+    "nameProduct" : "Lối sống tối giản của người Nhật", 
+    "price" : NumberInt(56000), 
+    "imageProduct" : "ce9d9159fae284c1f9ace2505566a872.jpg", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ed7b8cc4e4ca62d00000036"), 
+    "nameProduct" : "Tuổi trẻ đáng giá bao nhiêu", 
+    "price" : NumberInt(58000), 
+    "imageProduct" : "5fbf2a6f9d07b76d98e2fff2b29b0d3c.jpg", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ed7b8f94e4ca62d00000037"), 
+    "nameProduct" : "Học 2000 từ vựng tiếng Anh theo chủ đề", 
+    "price" : NumberInt(50000), 
+    "imageProduct" : "fc00028419754638dd5b250abbcb0de7.jpg", 
+    "__v" : NumberInt(0)
+}
